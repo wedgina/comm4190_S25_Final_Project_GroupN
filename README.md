@@ -1,9 +1,7 @@
 ## COMM4190 (Spring 2005) Final Project
 
 ### Project Group N
-
 ----
-* Add folders, notebooks, data, scripts etc as necessary to this folder to document your project
 
 As it continues to gain much more traction, artificial intelligence continues to bring many concerns about its effects on academia, with many fearing it will ultimately disrupt academic interaction. There's been a rapid and recent development in student use of artificial intelligence in with their classwork, helping them to write essays, cheat on exams, and do homework. However, AI can continue to be used in other and rather more positive conditions, such as helping to study for an exam, understand a difficult concept, and just overall minimizing just mundane tasks that can be associated with coursework. This is especially helpful considering there are a good amount of students who suffer from inadequate help or thin amount of resources in the classroom.  
 
