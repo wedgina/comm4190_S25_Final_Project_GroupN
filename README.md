@@ -13,6 +13,7 @@ Welcome to my study copilot created to assist students specifically with helping
 
 - [Ovierview](Overview.ipynb)
 - [AIvy_Study_Copilot](AIvy_Study_Copilot.ipynb)
+- [Scenario Results](AIvy_Modes_Results.ipynb)
 - [Evaluation](Evaluation.ipynb)
 
 
