@@ -9,7 +9,7 @@ AIvy would minimize the gap between students struggling to get material from cla
 
 Welcome to my study copilot created to assist students specifically with helping them learn and practice new topics to them. Hopefully you are able to better comprehend, encode, and practice topics that weren't so easy to learn the first time. 
 
-- [Ovierview](Overview.ipynb)
+- [Overview](Overview.ipynb)
 - [AIvy_Study_Copilot](AIvy_Study_Copilot.ipynb)
 - [Scenario Results](AIvy_Modes_Results.ipynb)
 - [Evaluation](Evaluation.ipynb)
